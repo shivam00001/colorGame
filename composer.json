@@ -1,12 +1,12 @@
 {
-    "name": "shivam00001/colorGame",
-    "description": "MCQ's for color",
+    "name": "chirgjin/animedl",
+    "description": "Download anime",
     "type": "project",
     "authors": [
         {
-            "name": "Shivam",
-            "email": "ritik.kumar3975@gmail.com"
-        }
+            "name": "Chirag",
+            "email": "chirgjin@gmail.com"
+      }
     ],
     "require": {},
     "require-dev": {
