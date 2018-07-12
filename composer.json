@@ -1,0 +1,15 @@
+{
+    "name": "shivam00001/colorGame",
+    "description": "MCQ's for color",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Shivam",
+            "email": "ritik.kumar3975@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}
